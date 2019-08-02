@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"expanded":false,"name":"Seleção","order":1,"parentId":0,"scrollX":877.3333333333334,"scrollY":495.3333333333333},
-{"id":2,"expanded":false,"name":"Inicio","order":2,"parentId":0,"scrollX":1092,"scrollY":621.3333333333334},
-{"id":3,"expanded":false,"name":"Quarto","order":5,"parentId":4,"scrollX":877.3333333333334,"scrollY":495.3333333333333},
-{"id":4,"expanded":true,"name":"CasaHeroi","order":4,"parentId":5,"scrollX":877.3333333333334,"scrollY":495.3333333333333},
-{"id":5,"expanded":true,"name":"Fazenda","order":3,"parentId":0,"scrollX":1053.3333333333333,"scrollY":955.3333333333334}
-]

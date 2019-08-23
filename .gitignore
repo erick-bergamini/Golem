@@ -1,2 +1,7 @@
 
 *.json
+data/Map002.json
+data/Map005.json
+data/MapInfos.json
+data/System.json
+data/Tilesets.json

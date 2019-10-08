@@ -1,10 +1,11 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Seleção","order":1,"parentId":0,"scrollX":1318,"scrollY":752},
-{"id":2,"expanded":false,"name":"Montanha","order":7,"parentId":0,"scrollX":1318,"scrollY":752},
-{"id":3,"expanded":false,"name":"Quarto","order":4,"parentId":4,"scrollX":1092,"scrollY":621.3333333333334},
-{"id":4,"expanded":true,"name":"CasaHeroi","order":3,"parentId":5,"scrollX":1092,"scrollY":621.3333333333334},
+{"id":2,"expanded":false,"name":"Montanha01","order":6,"parentId":5,"scrollX":1318,"scrollY":752},
+{"id":3,"expanded":false,"name":"Quarto","order":4,"parentId":4,"scrollX":1318,"scrollY":752},
+{"id":4,"expanded":false,"name":"CasaHeroi","order":3,"parentId":5,"scrollX":1318,"scrollY":752},
 {"id":5,"expanded":true,"name":"Fazenda","order":2,"parentId":0,"scrollX":1318,"scrollY":752},
-{"id":6,"expanded":false,"name":"TestMap","order":6,"parentId":0,"scrollX":1092,"scrollY":621.3333333333334},
-{"id":7,"expanded":true,"name":"Cratera","order":5,"parentId":5,"scrollX":1092,"scrollY":621.3333333333334}
+{"id":6,"expanded":false,"name":"TestMap","order":8,"parentId":0,"scrollX":1318,"scrollY":752},
+{"id":7,"expanded":true,"name":"Cratera","order":5,"parentId":5,"scrollX":1318,"scrollY":752},
+{"id":8,"expanded":false,"name":"Montanhas02","order":7,"parentId":5,"scrollX":1581.6,"scrollY":902.4}
 ]

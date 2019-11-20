@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Seleção","order":1,"parentId":0,"scrollX":1092,"scrollY":612},
+{"id":1,"expanded":false,"name":"Seleção","order":1,"parentId":0,"scrollX":1404,"scrollY":798.8571428571428},
 {"id":2,"expanded":false,"name":"MAP002","order":9,"parentId":6,"scrollX":1092,"scrollY":612},
 {"id":3,"expanded":false,"name":"Quarto","order":4,"parentId":4,"scrollX":819,"scrollY":466},
 {"id":4,"expanded":false,"name":"CasaHeroi","order":3,"parentId":5,"scrollX":819,"scrollY":459},
@@ -15,5 +15,5 @@ null,
 {"id":13,"expanded":false,"name":"MAP013","order":15,"parentId":6,"scrollX":1769.4545454545455,"scrollY":1001.4545454545455},
 {"id":14,"expanded":true,"name":"Cratera Dia","order":6,"parentId":5,"scrollX":884.7272727272727,"scrollY":582.5454545454546},
 {"id":15,"expanded":true,"name":"Fazenda Dia","order":7,"parentId":5,"scrollX":1035.2727272727273,"scrollY":492},
-{"id":16,"expanded":false,"name":"Caverna","order":16,"parentId":0,"scrollX":1092,"scrollY":612}
+{"id":16,"expanded":false,"name":"Caverna","order":16,"parentId":0,"scrollX":1404,"scrollY":798.8571428571428}
 ]

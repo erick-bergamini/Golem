@@ -1,5 +1,6 @@
 [
 null,
+<<<<<<< Updated upstream
 {"id":1,"expanded":false,"name":"Seleção","order":1,"parentId":0,"scrollX":1581.6,"scrollY":880.8},
 {"id":2,"expanded":false,"name":"Montanha01","order":6,"parentId":5,"scrollX":976.5,"scrollY":787.5},
 {"id":3,"expanded":false,"name":"Quarto","order":4,"parentId":4,"scrollX":1318,"scrollY":752},
@@ -13,4 +14,25 @@ null,
 {"id":11,"expanded":true,"name":"Caverna01 (de fogo)","order":9,"parentId":5,"scrollX":988.5,"scrollY":550.5},
 {"id":12,"expanded":true,"name":"caverna 2","order":10,"parentId":11,"scrollX":988.5,"scrollY":550.5},
 {"id":13,"expanded":false,"name":" batalha final ","order":11,"parentId":12,"scrollX":988.5,"scrollY":550.5}
+=======
+{"id":1,"expanded":false,"name":"Seleção","order":1,"parentId":0,"scrollX":1437.818181818182,"scrollY":820.3636363636364},
+{"id":2,"expanded":false,"name":"MAP002","order":9,"parentId":6,"scrollX":988.5,"scrollY":564},
+{"id":3,"expanded":false,"name":"Quarto","order":4,"parentId":4,"scrollX":878.6666666666666,"scrollY":489.3333333333333},
+{"id":4,"expanded":false,"name":"CasaHeroi","order":3,"parentId":5,"scrollX":1437.818181818182,"scrollY":820.3636363636364},
+{"id":5,"expanded":true,"name":"Fazenda Noite","order":2,"parentId":0,"scrollX":1269,"scrollY":1072},
+{"id":6,"expanded":true,"name":"TestMap","order":8,"parentId":0,"scrollX":789,"scrollY":592},
+{"id":7,"expanded":true,"name":"Cratera-Meteoro","order":5,"parentId":5,"scrollX":1437.818181818182,"scrollY":820.3636363636364},
+{"id":8,"expanded":false,"name":"MAP008","order":10,"parentId":6,"scrollX":1736,"scrollY":1397.3333333333333},
+{"id":9,"expanded":false,"name":"MAP009","order":11,"parentId":6,"scrollX":1757.3333333333333,"scrollY":1002.6666666666666},
+{"id":10,"expanded":true,"name":"MAP010","order":12,"parentId":6,"scrollX":1736,"scrollY":1504},
+{"id":11,"expanded":false,"name":"MAP011","order":14,"parentId":6,"scrollX":1736,"scrollY":1397.3333333333333},
+{"id":12,"expanded":false,"name":"MAP012","order":13,"parentId":10,"scrollX":1757.3333333333333,"scrollY":1002.6666666666666},
+{"id":13,"expanded":false,"name":"MAP013","order":15,"parentId":6,"scrollX":1736,"scrollY":1397.3333333333333},
+{"id":14,"expanded":true,"name":"Cratera Dia","order":6,"parentId":5,"scrollX":789,"scrollY":736},
+{"id":15,"expanded":true,"name":"Fazenda Dia","order":7,"parentId":5,"scrollX":1437.818181818182,"scrollY":820.3636363636364},
+{"id":16,"expanded":false,"name":"Caverna","order":16,"parentId":0,"scrollX":1757.3333333333333,"scrollY":1002.6666666666666},
+{"id":17,"expanded":true,"name":"Pedra1","order":17,"parentId":0,"scrollX":1437.818181818182,"scrollY":820.3636363636364},
+{"id":18,"expanded":false,"name":"Pedra 2","order":18,"parentId":17,"scrollX":1437.818181818182,"scrollY":820.3636363636364},
+{"id":19,"expanded":false,"name":"Pedra 3","order":19,"parentId":17,"scrollX":1437.818181818182,"scrollY":820.3636363636364}
+>>>>>>> Stashed changes
 ]
